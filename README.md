@@ -1,2 +1,3 @@
 # Donation
-I try to publish free Persian datasets in GateHub. Your financial support will encourage me.
+I try to publish free Persian datasets in github. Your financial support will encourage me.
+Donation link : https://www.patreon.com/persiandataset
